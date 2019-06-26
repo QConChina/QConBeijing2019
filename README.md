@@ -10,3 +10,7 @@ QCon2019北京 大会日程安排：
 https://qcon.infoq.cn/2019/beijing/schedule
 
 QCon2019北京 视频在极客时间App中可以查阅
+
+#版权说明
+
+所有素材来自于极客邦QCon大会公开资料，版权属于极客邦QCon和演讲者。
